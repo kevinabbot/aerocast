@@ -1,2 +1,1 @@
-H## Extended Outlook Section
-Hiiiiiiiiiii
+This will be a forecast discussion styled outlook focusing on at risk airports for severely impacted operations in the day 3-7 timeframe. 

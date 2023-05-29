@@ -1,12 +1,3 @@
-## Information Section
+Welcome to ALPHA testing of AeroCastWX. This website is designed for travelers or meteorologists in assisting with terminal and STAR forecasts. Note that all times are in ET or Zulu (UTC-0) time.
 
-# About
-Flight Delay Forecasts forecasts for ***weather related*** flight delays across the United States. 
-## Additional Information:
-Forecast hour buttons may not always be true to time. Look at the **"VALID TIME"** for the time of the forecast. Date format: YYYYMMDD 
-
-Twitter: [flightforecasts](https://twitter.com/flightforecasts).
-
-**More Specific information about this project** [here](https://sites.psu.edu/kjblog/)
-
-Questions/Technical Issues: kevinabbot@psu.edu
+For feedback or issues please email kevinabbot@psu.edu. This is, for now, a STATIC website so forecasts are not updating.   
