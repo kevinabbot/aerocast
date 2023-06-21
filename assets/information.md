@@ -1,12 +1,8 @@
-## Information Section
+## Welcome to AEROCAST WX!
+***CURRENTLY IN BETA TESTING***
+The Interactive map displays forecasted precipitation and airport delay forecasts. **Click** the airport for more information, including **delay predictions**. All forecast times are in **Eastern Time**. Meteorologists can use the tools on the top right to get more information on FIX/STAR forecasts, airport impact forecasts, and NWP output comparisons. 
 
-# About
-Flight Delay Forecasts forecasts for ***weather related*** flight delays across the United States. 
-## Additional Information:
-Forecast hour buttons may not always be true to time. Look at the **"VALID TIME"** for the time of the forecast. Date format: YYYYMMDD 
-
-Twitter: [flightforecasts](https://twitter.com/flightforecasts).
-
-**More Specific information about this project** [here](https://sites.psu.edu/kjblog/)
+Twitter [Here](https://twitter.com/aerocastwx)
+Created by [Kevin Abbot](https://twitter.com/kevin_abbotwx)
 
 Questions/Technical Issues: kevinabbot@psu.edu
