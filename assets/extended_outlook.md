@@ -1,2 +1,2 @@
-## Extended Outlook Section
-Hiiiiiiiiiii
+**Wednesday, June 21 3pm ET.** 
+Unsettled weather looks to continue, but diminish, in the eastern US, especially in the Carolinas, where some scattered storms are possible in the afternoon on Friday, but nothing widespread enough for extended delays. Saturday will be mostly calm across the country with the exception of PIT/CLE possibly seeing low ceilings/fog during morning departures, which should not translate to any major delays. Some afternoon scattered storms are possible for the MSP/ORD region later on Saturday. Sunday looks to be calm for all major airports, with storms possible in Arkansas/Mississippi. Monday evening could bring a disruptive line of storms to the Mid-Atlantic (DCA/BWI/IAD/RDU/CLT/PHL) during evening departures. The remaining work week looks to be calm across the country. 
