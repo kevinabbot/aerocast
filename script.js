@@ -7,67 +7,67 @@
       const buttons = [{
               htmlFile: 'interactive_2.html',
               pngFile: 'fctime_2.png',
-              time: '06-23\n01 PM'
+              time: '06-23\n06 PM'
           },
           {
               htmlFile: 'interactive_4.html',
               pngFile: 'fctime_4.png',
-              time: '06-23\n03 PM'
+              time: '06-23\n08 PM'
           },
           {
               htmlFile: 'interactive_6.html',
               pngFile: 'fctime_6.png',
-              time: '06-23\n05 PM'
+              time: '06-23\n10 PM'
           },
           {
               htmlFile: 'interactive_8.html',
               pngFile: 'fctime_8.png',
-              time: '06-23\n07 PM'
+              time: '06-24\n12 AM'
           },
           {
               htmlFile: 'interactive_10.html',
               pngFile: 'fctime_10.png',
-              time: '06-23\n09 PM'
+              time: '06-24\n02 AM'
           },
           {
               htmlFile: 'interactive_12.html',
               pngFile: 'fctime_12.png',
-              time: '06-23\n11 PM'
+              time: '06-24\n06 AM'
           },
           {
               htmlFile: 'interactive_14.html',
               pngFile: 'fctime_14.png',
-              time: '06-24\n01 AM'
+              time: '06-24\n08 AM'
           },
           {
               htmlFile: 'interactive_16.html',
               pngFile: 'fctime_16.png',
-              time: '06-24\n06 AM'
+              time: '06-24\n10 AM'
           },
           {
               htmlFile: 'interactive_18.html',
               pngFile: 'fctime_18.png',
-              time: '06-24\n08 AM'
+              time: '06-24\n12 PM'
           },
           {
               htmlFile: 'interactive_24.html',
               pngFile: 'fctime_24.png',
-              time: '06-24\n10 AM'
+              time: '06-24\n02 PM'
           },
           {
               htmlFile: 'interactive_28.html',
               pngFile: 'fctime_28.png',
-              time: '06-24\n12 PM'
+              time: '06-24\n06 PM'
           },
           {
               htmlFile: 'interactive_32.html',
               pngFile: 'fctime_32.png',
-              time: '06-24\n04 PM'
+              time: '06-24\n10 PM'
           },
           {
               htmlFile: 'interactive_36.html',
               pngFile: 'fctime_36.png',
-              time: '06-24\n08 PM'
+              time: '06-25\n12 AM'
           },
       ];
       const buttonContainer = document.getElementById("buttonContainer");
